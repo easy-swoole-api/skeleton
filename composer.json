@@ -22,7 +22,7 @@
     },
     "require": {
         "php": ">=7.4.0",
-        "easy-swoole-api/core": "^1.0@beta"
+        "easy-swoole-api/core": "*"
     },
     "scripts": {
         "fix": "php-cs-fixer fix $1",
