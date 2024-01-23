@@ -3,5 +3,5 @@ The Skeleton of EasySwoole Api framework.
 
 ## Installation
 ```bash
-composer require easy-swoole-api/skeleton="1.0.0-beta"
+composer create-project easy-swoole-api/skeleton "easyswoole-api"
 ```
